@@ -8,5 +8,5 @@ def add_two_numbers(a,b):
     sum = a + b
     return sum
 
-ans = add_two_numbers(5,2) # expected result 7
+ans = add_two_numbers(5,2) # expected result 7(sum)
 print(ans)
